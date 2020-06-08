@@ -1,0 +1,43 @@
+{
+    "editor.fontSize": 15,
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontSize": 12,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\\MicrosoftEdge.exe",
+    "liveServer.settings.ChromeDebuggingAttachment": true,
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.donotShowInfoMsg": false,
+    "liveServer.settings.host": "127.0.0.1",
+    "liveServer.settings.donotVerifyTags": false,
+    "liveServer.settings.https": {
+        "enable": true,
+        "cert": "",
+        "key": "",
+        "passphrase": ""
+    },
+    "liveServer.settings.proxy": {
+        "enable": true,
+        "baseUri": "/",
+        "proxyUri": "http://127.0.0.1:80"
+    },
+    "liveServer.settings.useWebExt": false,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.wait": 100,
+    "liveServer.settings.mount": [],
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.file": "",
+    "liveServer.settings.showOnStatusbar": true,
+    "liveServer.settings.useBrowserPreview": false,
+    "liveServer.settings.multiRootWorkspaceName": "HTML"
+}
